@@ -53,16 +53,6 @@ body {
   right:30%;
     top: 60%;
 }
-  .hehe {
-    display: flex;
-    justify-content: center;
-    top: 120px;
-    left: 15px;
-    position: absolute;
-    width: 150px;
-    height: auto;
-    z-index: 1;
-  }
   .happy {
     text-align: center;
     left: 15%;
